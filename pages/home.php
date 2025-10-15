@@ -25,7 +25,7 @@
             </div>
             
             <div class="account-link">
-                <a href="account.html">Акаунт</a>
+                <a href="/login">Акаунт</a>
             </div>
         </div>
 
